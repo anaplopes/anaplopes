@@ -5,7 +5,7 @@
 
 - 💻 Technical competence ... 
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
