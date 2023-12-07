@@ -6,13 +6,20 @@
 - 💻 Technical competence ... 
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
